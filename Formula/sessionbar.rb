@@ -1,8 +1,8 @@
 class Sessionbar < Formula
   desc "macOS menu bar status for all active Claude Code sessions"
   homepage "https://github.com/nvdson2005/sessionbar"
-  url "https://github.com/nvdson2005/sessionbar/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "10f71008013d7dc540c0d07db7c87203aaae59a1e51272f729ebd3f5f69cce32"
+  url "https://github.com/nvdson2005/sessionbar/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "de01f427d5dd2a9b3956698f49249345b96f9d887b0de8110fe0c1b97da8e5b2"
   license "MIT"
   head "https://github.com/nvdson2005/sessionbar.git", branch: "main"
 
